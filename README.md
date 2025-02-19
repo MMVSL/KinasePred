@@ -8,7 +8,7 @@ KinasePred is a tool that allows the prediction of the potential activity of sma
 To set up the required environment, use the provided YAML file:
 
 ```sh
-conda env create -f kinase_pred.yml
+conda env create -f kinasepred_env.yml
 ```
 
 Then, activate the environment:
