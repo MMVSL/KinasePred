@@ -1,7 +1,7 @@
 # KinasePred
 
 
-KinasePred is a tool that allows the prediction of the potential activity of small molecules against kinases. This repository provides a Python script for kinase prediction using a predefined environment and dependencies. 
+KinasePred is a ML tool that allows the prediction of the potential activity of small molecules against kinases. This repository provides a Python script for kinase prediction using a predefined environment and dependencies. 
 
 ## Installation
 
